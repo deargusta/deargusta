@@ -7,7 +7,7 @@ Passionate about clean code, accessible interfaces, and creative design.
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 📚 Currently studying **HTML, CSS, JavaScript, React, and UI/UX**.
 - 🌍 Fluent in English & experienced with remote work.
@@ -17,7 +17,7 @@ Passionate about clean code, accessible interfaces, and creative design.
 
 ---
 
-### 🧠 Currently Learning
+### Currently Learning
 
 - 📦 React.js & Component Architecture.
 - 🧪 TypeScript (basic level).
@@ -27,7 +27,7 @@ Passionate about clean code, accessible interfaces, and creative design.
 
 ---
 
-### 💻 Tech I'm learning and practicing 
+### Tech I'm learning and practicing 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -39,7 +39,7 @@ Passionate about clean code, accessible interfaces, and creative design.
 
 ---
 
-### 📫 Talk to me!
+### Talk to me!
 
 [![Twitter](https://img.shields.io/badge/-@deargusta_-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/deargusta_)
 [![Instagram](https://img.shields.io/badge/-@rainmedown-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rainmedown/)
