@@ -41,6 +41,6 @@ Passionate about clean code, accessible interfaces, and creative design.
 
 ### Talk to me!
 
-[![Twitter](https://img.shields.io/badge/-@deargusta_-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/deargusta_)
+[![Twitter](https://img.shields.io/badge/-@rainmedwn-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/rainmedwn)
 [![Instagram](https://img.shields.io/badge/-@rainmedown-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rainmedown/)
 [![Gmail](https://img.shields.io/badge/-gustavotito.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gustavotito.dev@gmail.com)
